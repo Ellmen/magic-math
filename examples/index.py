@@ -7,3 +7,7 @@ sys.path.append('util')
 
 # from grisly_salvage import grisly_salvage
 # print grisly_salvage()
+
+# Some useful land probabilies can be used like:
+# from lands import print_lands
+# print_lands(24, 7, 3)

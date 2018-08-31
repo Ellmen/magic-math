@@ -13,7 +13,7 @@ def targets_drawn(targets_left, cards_left, cards_drawn):
 
     for _ in range(trials):
         shuffle(deck)
-        num_hits = sum(deck[:5])
+        num_hits = sum(deck[:cards_drawn])
         hits[num_hits] += 1
 
     for hit in hits:
