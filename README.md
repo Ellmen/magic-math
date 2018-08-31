@@ -3,4 +3,4 @@ Math and code for misc MTG probabilities. Above all else, the code in this repos
 
 ## Usage
 
-Currently, the easiest way to use this repository is by modifying `index.py`. There is example code there for how to do this.
+Currently, the easiest way to use this repository is using an `index.py` in the home directory. To get started, copy `exaples/index.py` to this folder.
