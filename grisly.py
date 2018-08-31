@@ -4,7 +4,7 @@
 from random import shuffle
 
 good_cards = ['good'] * 4
-bad_cards = ['bad'] * 56
+bad_cards = ['bad'] * (60 - len(good_cards))
 
 num_cards_played = 9
 
